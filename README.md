@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna Elizabeth Thambi</h1>
-<h3 align="center">AI/ML Engineer @ ALB </h3>
+<h3 align="center">AI/ML Engineer @ Accurate Legal Billing </h3>
 
 - 🔭 I’m currently working on Pytorch
   
