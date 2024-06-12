@@ -7,6 +7,8 @@
   
 - 🌱 I’m currently focusing on **Pytorch** & **Tensorflow**
   
+- 📫 How to reach me `carelesscaramel2006@gmail.com.`
+
 - ⚡ Fun fact **I think I am weird in my own way ;)**
 
 [![Careless-Caramel's GitHub | Stats](https://stats.quine.sh/Careless-Caramel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Careless-Caramel)
