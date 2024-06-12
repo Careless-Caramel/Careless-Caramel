@@ -5,9 +5,9 @@
   
 - 📝 Skilled and Experienced in Python, Linux, Machine Learning,Deep Learning,Docker,Kubernetes
   
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch** & **Tensorflow**
   
-- ⚡ Fun fact **I think I am weird ;)**
+- ⚡ Fun fact **I think I am weird in my own way ;)**
 
 [![Careless-Caramel's GitHub | Stats](https://stats.quine.sh/Careless-Caramel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Careless-Caramel)
 
