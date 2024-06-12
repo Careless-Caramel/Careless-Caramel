@@ -5,7 +5,7 @@
   
 - 📝 Skilled and Experienced in Python, Linux, Machine Learning,Deep Learning,Docker,Kubernetes
   
-- 🌱 I’m currently learning **Pytorch** & **Tensorflow**
+- 🌱 I’m currently focusing on **Pytorch** & **Tensorflow**
   
 - ⚡ Fun fact **I think I am weird in my own way ;)**
 
